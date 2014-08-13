@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Callender Consulting",
+    "longName": "PebblePointer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebblepointer.png",
+                "name": "IMAGE_PEBBLEPOINTER",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "PebblePointer",
+    "uuid": "273761eb-97dc-4f08-b353-3384a2170902",
+    "versionCode": 2,
+    "versionLabel": "2.0.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
